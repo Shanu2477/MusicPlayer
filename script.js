@@ -801,105 +801,105 @@ const SONG_LIST = [
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Samajavaragamana",
+    music: "https://mp3teluguwap.net/mp3/2020/Ala%20Vaikunthapurramuloo%20(2020)/Ala%20Vaikunthapurramuloo%20(2020)%20-%20HQ/Samajavaragamana%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Ramuloo%20Ramula",
+    music: "https://mp3teluguwap.net/mp3/2020/Ala%20Vaikunthapurramuloo%20(2020)/Ala%20Vaikunthapurramuloo%20(2020)%20-%20HQ/Ramuloo%20Ramula%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Buttabomma",
+    music: "https://mp3teluguwap.net/mp3/2020/Ala%20Vaikunthapurramuloo%20(2020)/Ala%20Vaikunthapurramuloo%20(2020)%20-%20HQ/Buttabomma%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"/Samajavaragamana%20(Female)",
+    music: "https://mp3teluguwap.net/mp3/2020/Ala%20Vaikunthapurramuloo%20(2020)/Ala%20Vaikunthapurramuloo%20(2020)%20-%20HQ/Samajavaragamana%20(Female)%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Waka%20Waka",
+    music: "https://mp3teluguwap.net/mp3/2019/Valmiki%20-%20(2019)/Valmiki%20(2019)%20-%20HQ/Waka%20Waka%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Jarraaa%20Jarraaa",
+    music: "https://mp3teluguwap.net/mp3/2019/Valmiki%20-%20(2019)/Valmiki%20(2019)%20-%20HQ/Jarraaa%20Jarraaa%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Seheri",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/atoz/2000to2009/O/Oy%21%20%282009%29/06%20-%20Seheri%20-%20SenSongsMp3.co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Oy%21%20Oy",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/atoz/2000to2009/O/Oy%21%20%282009%29/01%20-%20Oy%21%20Oy%21%20-%20SenSongsMp3.co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Psycho%20Saiyaan",
+    music: "https://mp3teluguwap.net/mp3/2019/Saaho%20(2019)/Saaho%20(2019)%20-%20HQ/Psycho%20Saiyaan%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Ye%20Chota%20Nuvvunna",
+    music: "https://mp3teluguwap.net/mp3/2019/Saaho%20(2019)/Saaho%20(2019)%20-%20HQ/Ye%20Chota%20Nuvvunna%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Bad%20Boy",
+    music: "https://mp3teluguwap.net/mp3/2019/Saaho%20(2019)/Saaho%20(2019)%20-%20HQ/Bad%20Boy%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Baby%20Wont%20You%20Tell%20Me",
+    music: "https://mp3teluguwap.net/mp3/2019/Saaho%20(2019)/Saaho%20(2019)%20-%20HQ/Baby%20Wont%20You%20Tell%20Me%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },  {
-    songName:"",
-    music: "",
+    songName:"My%20Name%20is%20Billa",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Prabash/Billa(2009)/My%20Name%20is%20Billa-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Bommali",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Prabash/Billa(2009)/Bommali-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Ellora%20Shilpanni",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Prabash/Billa(2009)/Ellora%20Shilpanni-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
@@ -908,62 +908,62 @@ const SONG_LIST = [
 
 
   {
-    songName:"",
-    music: "",
+    songName:"Dandiya%20India",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Oosaravelli%282011%29/Dandiya%20India-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },  {
-    songName:"",
-    music: "",
+    songName:"Brathakaali",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Oosaravelli%282011%29/Brathakaali-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Niharika",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Oosaravelli%282011%29/Niharika-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Singles%20Anthem",
+    music: "https://mp3teluguwap.net/mp3/2020/Bheeshma%20(2020)/Bheeshma%20(2020)%20-%20HQ/Singles%20Anthem%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Whattey%20Beauty",
+    music: "https://mp3teluguwap.net/mp3/2020/Bheeshma%20(2020)/Bheeshma%20(2020)%20-%20HQ/Whattey%20Beauty%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Ay%20Pilla%",
+    music: "https://mp3teluguwap.net/mp3/2020/Love%20Story%20(2020)/Love%20Story%20(2020)%20-%20HQ/Ay%20Pilla%20-%20SenSongsMp3.Co_29.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Nee%20Chitram%20Choosi",
+    music: "https://mp3teluguwap.net/mp3/2020/Love%20Story%20(2020)/Love%20Story%20(2020)%20-%20HQ/Nee%20Chitram%20Choosi%20-%20SenSongsM3.Com.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Saranga%20Dariya",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/2021/Love%20Story/Love%20Story(HQ)/Saranga%20Dariya%20-%20SenSongsMp3.Com.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },  {
-    songName:"",
-    music: "",
+    songName:"Evo%20Evo%20Kalale%",
+    music: "https://mp3teluguwap.net/mp3/2021/Love%20Story/Love%20Story%20-%20HQ/Evo%20Evo%20Kalale%20-%20SenSongsMp3.Com.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
