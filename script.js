@@ -976,8 +976,8 @@ const SONG_LIST = [
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Bapu%20Gari%20Bommo",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Atharintiki%20Daaredi%20(2013)/Bapu%20Gari%20Bommo-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
@@ -997,15 +997,15 @@ const SONG_LIST = [
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Time%20To%20Party",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Atharintiki%20Daaredi%20(2013)/Time%20To%20Party%20-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Kirraaku",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Atharintiki%20Daaredi%20(2013)/Kirraaku-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
