@@ -969,8 +969,8 @@ const SONG_LIST = [
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Padessavae",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/old/Telugu%202015/82%20-%20Akhil%20(2015)/Padessavae%20-%20SenSongsmp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
@@ -983,15 +983,15 @@ const SONG_LIST = [
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Zara%20Zara%20Navvaradhe",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/old/Telugu%202015/82%20-%20Akhil%20(2015)/Zara%20Zara%20Navvaradhe%20-%20SenSongsmp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Akkineni%20Akkineni",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/old/Telugu%202015/82%20-%20Akhil%20(2015)/Akkineni%20Akkineni%20-%20SenSongsmp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
