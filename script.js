@@ -1011,47 +1011,188 @@ const SONG_LIST = [
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Chaila%20Chaila",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/atoz/2000to2009/S/Shankar%20Dada%20M.B.B.S.%20(2004)/Chaila%20Chaila-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Pattu%20Pattu",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/atoz/2000to2009/S/Shankar%20Dada%20M.B.B.S.%20(2004)/Pattu%20Pattu-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Shankerdada%20M.B.B.S",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/atoz/2000to2009/S/Shankar%20Dada%20M.B.B.S.%20(2004)/Shankerdada%20M.B.B.S-SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
   {
-    songName:"",
-    music: "",
+    songName:"Seethakaalam",
+    music: "https://sencloud.online/mp32/mp3/2000/Son%20Of%20Sathyamurthy%20(2015)/Seethakaalam%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
 
   {
-    songName:"",
-    music: "",
+    songName:"Super%20Machi",
+    music: "https://sencloud.online/mp32/mp3/2000/Son%20Of%20Sathyamurthy%20(2015)/Super%20Machi%20-%20SenSongsMp3.Co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },  {
+    songName:"Ivala",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Chiutha%20(2007)/Ivala-SenSongsMp3.Co.mp3",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+  {
+    songName:"Chamka%20Chamka",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Chiutha%20(2007)/Chamka%20Chamka-SenSongsMp3.Co.mp3",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"Yamaho%20Yama",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Chiutha%20(2007)/Yamaho%20Yama-SenSongsMp3.Co.mp3",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"Maro%20Maro",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Chiutha%20(2007)/Maro%20Maro-SenSongsMp3.Co.mp3",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+
+   {
+    songName:"Love%20U%20Raa",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/All/Chiutha%20(2007)/Love%20U%20Raa-SenSongsMp3.Co.mp3",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
     songName:"",
     music: "",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+   {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  }, {
+    songName:"",
+    music: "",
+    album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
+    background: "B1.JPG",
+
+  },
+  
 
 
   {
