@@ -43,12 +43,6 @@ const SONG_LIST = [
     background: "B2.JPG",
   },
   {
-    songName: "Daavudi-Devara",
-    music: "https://mp3teluguwap.net/mp3/2024/Devara/Devara%20-%20HQ/Daavudi.mp3",
-    album: "https://upload.wikimedia.org/wikipedia/en/f/f0/Devara_Part_1.jpg",
-    background: "B2.JPG",
-  },
-  {
     songName: "Sarimapa-Saripodha Sanivaram",
     music: "https://mp3teluguwap.net/mp3/2024/Saripodha%20Sanivaram/Sarimapa.mp3",
     album: "https://filmyfocus.com/wp-content/uploads/2019/09/25-Highest-grossing-telugu-movies.jpg",
@@ -1082,22 +1076,22 @@ const SONG_LIST = [
 
   },
    {
-    songName:"",
-    music: "",
+    songName:"Chitti",
+    music: "https://mp3teluguwap.net/mp3/2021/Jathi%20Ratnalu/Chitti%20-%20SenSongsMp3.Com.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
    {
-    songName:"",
-    music: "",
+    songName:"0Orugalluke%20pilla%",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/old/Mahesh%20Babu/Sainikudu%20-%20(2006)/04%20-%20Orugalluke%20pilla%20-%20SenSongsMp3.co.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
   },
    {
-    songName:"",
-    music: "",
+    songName:"Hukum",
+    music: "https://mp3teluguwap.net/mp3/2023/Jailer%20-%20Telugu/Hukum.mp3",
     album: "https://series.ae/wp-content/uploads/2023/12/Ibomma-Telugu-Movies-New-2022-2-300x150.jpeg",
     background: "B1.JPG",
 
