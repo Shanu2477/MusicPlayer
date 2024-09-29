@@ -101,9 +101,10 @@ const SONG_LIST = [
     album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
     background: "B1.JPG",
   },
+    
      {
-    songName: "Nagada Sang Dhol ",
-    music: "https://pagalfree.com/musics/128-Nagada Sang Dhol - Goliyon Ki Raasleela Ram Leela 128 Kbps.mp3",
+    songName: "Krishnayya Kolatam ",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTc4MjcsInRpdGxlIjoiS3Jpc2huYXl5YSBLb2xhdGFtIFNvbmcgMjAyMSAjSmFudWx5cmkgI2tvZGFyaXNyaW51ICNKYW51bHlyaWJlYXRzIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS9nTGN2ZUQ0dzRtMC8zMjAubXAzIn0.yx6LQ-8-xKHuuFrAa4gdBfyH81ia4dNtfSaFmjQmYzA.mp3",
     album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
     background: "B1.JPG",
   },
