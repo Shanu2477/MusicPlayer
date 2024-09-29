@@ -54,8 +54,8 @@ const SONG_LIST = [
     background: "B1.JPG",
   },
       {
-    songName: "",
-    music: "",
+    songName: "V6 Bathukamma Song 2015 ",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTU3MjAsInRpdGxlIjoiVjYgQmF0aHVrYW1tYSBTb25nIDIwMTUgfHwgVjYgRXhjbHVzaXZlIFNvbmdzIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS8yN1VYcU5RaDRlVS8zMjAubXAzIn0.sgHS6otWxTMLy9BsUOcW-Xm7frWynxA87PJdO2VDagM.mp3",
     album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
     background: "B1.JPG",
   },
