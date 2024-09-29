@@ -60,11 +60,54 @@ const SONG_LIST = [
     background: "B1.JPG",
   },
       {
+    songName: "V6 Bathukamma ",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTU5MTUsInRpdGxlIjoiVjYgQmF0aHVrYW1tYSBTcGVjaWFsIFNvbmctMSAyMDE4IHwgVjYgTmV3cyIsInBhdGgiOiIvaG9tZS9ub2RldHViZS9zdG9yYWdlL3lvdXR1YmUvcWxHWFdRb3FFMGMvMzIwLm1wMyJ9.YOVpmuJ8rGrAYreSd1dz9Nm1vR7KgfgdY-WBQFYYr3M.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+     {
+    songName: "Chogada - Loveyatri",
+    music: "https://pagalfree.com/musics/128-Chogada - Loveyatri - A Journey Of Love 128 Kbps.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+     {
+    songName: "Kamariya - Mitron",
+    music: "https://pagalfree.com/musics/128-Kamariya - Mitron 128 Kbps.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+     {
+    songName: "Dandiya",
+    music: "https://sencloud.online/mp3/Telugu%20Mp3/atoz/2000to2009/P/Premikula%20Roju%20%281999%29/Dandiya%20-%20SenSongsMp3.Co.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+     {
     songName: "",
     music: "",
     album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
     background: "B1.JPG",
   },
+     {
+    songName: "",
+    music: "",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+     {
+    songName: "",
+    music: "",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+     {
+    songName: "",
+    music: "",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+    
     
     
   {
