@@ -1,10 +1,72 @@
 const SONG_LIST = [
     {
-    songName: "Gummare Gumma | Batukamma Song 2024",
+    songName: "Gummare Gumma  Batukamma Song 2024",
     music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTM0MTQsInRpdGxlIjoiR3VtbWFyZSBHdW1tYSB8IEJhdHVrYW1tYSBTb25nIDIwMjQgfCBNYWRodXByaXlhIHwgTWFkZWVuIFNrIHwgQmlrc2hhdmFtbWEgfCBOYWdhIER1cmdhIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS9pNk5BMDRBV0RTWS8zMjAubXAzIn0.5WU3CAusOskDbAy482F4jikCV0mLRDuH_8VTytENJ7M.mp3",
     album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
     background: "B1.JPG",
   },
+{
+    songName: "Mangli Bathukamma Song 2023",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTM5MjgsInRpdGxlIjoiTWFuZ2xpIEJhdGh1a2FtbWEgU29uZyAyMDIzIHwgRnVsbCBTb25nIHwgS2FzYXJsYSBTaHlhbSB8IFN1cmVzaCBCb2JiaWxpIHwgSmFudWx5cmkgfCBEYW11IFJlZGR5IiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS9PT0wyZ2oyRXdlMC8zMjAubXAzIn0.zUNE2u9KVvvt-CrohXMmroLJSjc-fnjayOCv1gd9VjU.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+    {
+    songName: " Bathukamma Song by Mangli",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTQxNTIsInRpdGxlIjoiTGF0ZXN0IEJhdGh1a2FtbWEgU29uZyBieSBNYW5nbGkgfCBTYWtldGggfCBQcmVzZW50ZWQgYnkgTWljVHYiLCJwYXRoIjoiL2hvbWUvbm9kZXR1YmUvc3RvcmFnZS95b3V0dWJlL1Q3TDJhNmNzbVlZLzMyMC5tcDMifQ.7sOZ3K7dzCqd7lOqowkhIeF4ZYTocQsp6k4DRejeCI0.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "#Madhupriya Bathukamma 2024",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTQzMTQsInRpdGxlIjoiI01hZGh1cHJpeWEgQmF0aHVrYW1tYSAyMDI0IHwgTWFkaHVwcml5YSB8IEhvbmV5R2FuZXNofCBKb2dpbmkgc2h5YW1hbGEgI0hvbmV5R2FuZXNoICNKb2dpbmlTaHlhbWFsYSIsInBhdGgiOiIvaG9tZS9ub2RldHViZS9zdG9yYWdlL3lvdXR1YmUvcXJ6RGNhOURGWEkvMzIwLm1wMyJ9.EiOLr2sF6aD73ikZpkt5B-VCxLuTBLHDlWxYPFxlupQ.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "V6 Bathukamma Song 2016",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTQ3MjUsInRpdGxlIjoiVjYgQmF0aHVrYW1tYSBTb25nIDIwMTYgfHwgVjYgU3BlY2lhbCIsInBhdGgiOiIvaG9tZS9ub2RldHViZS9zdG9yYWdlL3lvdXR1YmUvdjMtSmNKaXhOUDQvMzIwLm1wMyJ9.WwJ6b9g6d6qMvyu8G92G9dtqn0FiIioBvUpiEg2RDLk.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "Bathukamma Song 2018",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTQ4MDcsInRpdGxlIjoiQmF0aHVrYW1tYSBTb25nIDIwMTggfCBSZWdpbmEgfHN1bWEgfCB1ZGF5YSBiaGFudSB8IEpoYW5zaSB8IE5hbmRpbmkgcmVkZHkgfCBTVU5OWSBURkNDTElWRSIsInBhdGgiOiIvaG9tZS9ub2RldHViZS9zdG9yYWdlL3lvdXR1YmUvVk9lOHFXR3gxR1EvMzIwLm1wMyJ9.DU8hfJAy46077gf7gXLspWyZmgqNpFzdFXFiw0gVLm8.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "Bathukamma - Kisi Ka Bhai Kisi",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTQ5MzQsInRpdGxlIjoiQmF0aHVrYW1tYSAtIEtpc2kgS2EgQmhhaSBLaXNpIEtpIEphYW4gfCBTYWxtYW4gS2hhbiwgUG9vamEgSGVnZGUsIFZlbmthdGVzaCBEIHwgU2FudGhvc2ggViwgUmF2aSBCIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS90ZE9nOFgwUlY5SS8zMjAubXAzIn0.oNKJ40symNocA-TFSnyDmI3vIq9loIu70k8E6MhHBAw.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "Mangli Bathukamma song 2022 ",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTUxNzIsInRpdGxlIjoiTWFuZ2xpIEJhdGh1a2FtbWEgc29uZyAyMDIyIHwgRnVsbCBTb25nIHwgR29yZXRpIFZlbmthbm5hIHwgSW5kcmF2YXRoaSBDaGF1aGFuIHwgTWFkZWVuIHwgSmFudWx5cmkiLCJwYXRoIjoiL2hvbWUvbm9kZXR1YmUvc3RvcmFnZS95b3V0dWJlL0FtYzVXMkFPRXBjLzMyMC5tcDMifQ.ancm9U9ZKHQBVqCd5eao17Fnoj88NenF29R_SEdEeiI.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "Gandhari | Keerthy Suresh",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTU1NjQsInRpdGxlIjoiR2FuZGhhcmkgfCBLZWVydGh5IFN1cmVzaCB8IFBhd2FuIENIIHwgU3VkZGFsYSBBc2hvayBUZWphIHwgVGVsdWd1IFNvbmdzIDIwMjIgfCBUZWx1Z3UgTXVzaWMgVmlkZW9zIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS9vcjJCU1NQTWRtby8zMjAubXAzIn0.cb4DnSagcZcQDt13UiGgzdZG9LOAisnzWWG84rdIdwk.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "",
+    music: "",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+      {
+    songName: "",
+    music: "",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
+    
+    
   {
     songName: "1-Ye Zindagi - Most Eligible Bachelor",
     music: "https://mp3teluguwap.net/mp3/111/Most%20Eligible%20Bachelor/Most%20Eligible%20Bachelor%20-%20HQ/Ye%20Zindagi.mp3",
