@@ -1,4 +1,10 @@
 const SONG_LIST = [
+    {
+    songName: "Gummare Gumma | Batukamma Song 2024",
+    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTM0MTQsInRpdGxlIjoiR3VtbWFyZSBHdW1tYSB8IEJhdHVrYW1tYSBTb25nIDIwMjQgfCBNYWRodXByaXlhIHwgTWFkZWVuIFNrIHwgQmlrc2hhdmFtbWEgfCBOYWdhIER1cmdhIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS9pNk5BMDRBV0RTWS8zMjAubXAzIn0.5WU3CAusOskDbAy482F4jikCV0mLRDuH_8VTytENJ7M.mp3",
+    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
+    background: "B1.JPG",
+  },
   {
     songName: "1-Ye Zindagi - Most Eligible Bachelor",
     music: "https://mp3teluguwap.net/mp3/111/Most%20Eligible%20Bachelor/Most%20Eligible%20Bachelor%20-%20HQ/Ye%20Zindagi.mp3",
