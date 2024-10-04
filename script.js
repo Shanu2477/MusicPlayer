@@ -30,20 +30,14 @@ const SONG_LIST = [
     background: "B1.JPG",
   },
       {
-    songName: "Mangli Bathukamma song 2022 ",
-    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTUxNzIsInRpdGxlIjoiTWFuZ2xpIEJhdGh1a2FtbWEgc29uZyAyMDIyIHwgRnVsbCBTb25nIHwgR29yZXRpIFZlbmthbm5hIHwgSW5kcmF2YXRoaSBDaGF1aGFuIHwgTWFkZWVuIHwgSmFudWx5cmkiLCJwYXRoIjoiL2hvbWUvbm9kZXR1YmUvc3RvcmFnZS95b3V0dWJlL0FtYzVXMkFPRXBjLzMyMC5tcDMifQ.ancm9U9ZKHQBVqCd5eao17Fnoj88NenF29R_SEdEeiI.mp3",
-    album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
-    background: "B1.JPG",
-  },
-      {
     songName: "Gandhari | Keerthy Suresh",
-    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTU1NjQsInRpdGxlIjoiR2FuZGhhcmkgfCBLZWVydGh5IFN1cmVzaCB8IFBhd2FuIENIIHwgU3VkZGFsYSBBc2hvayBUZWphIHwgVGVsdWd1IFNvbmdzIDIwMjIgfCBUZWx1Z3UgTXVzaWMgVmlkZW9zIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS9vcjJCU1NQTWRtby8zMjAubXAzIn0.cb4DnSagcZcQDt13UiGgzdZG9LOAisnzWWG84rdIdwk.mp3",
+    music: "https://hindi3.djpunjab.app/load/VEmtqnvVaHdCsrAslYbhcg==/Gandhari.mp3",
     album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
     background: "B1.JPG",
   },
       {
     songName: "V6 Bathukamma Song 2015 ",
-    music: "https://rr-01-bucket.cdn1313.net/download/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjc1OTU3MjAsInRpdGxlIjoiVjYgQmF0aHVrYW1tYSBTb25nIDIwMTUgfHwgVjYgRXhjbHVzaXZlIFNvbmdzIiwicGF0aCI6Ii9ob21lL25vZGV0dWJlL3N0b3JhZ2UveW91dHViZS8yN1VYcU5RaDRlVS8zMjAubXAzIn0.sgHS6otWxTMLy9BsUOcW-Xm7frWynxA87PJdO2VDagM.mp3",
+    music: "https://djsrinu.net/files/download/id/4771",
     album: "https://images.picxy.com/cache/2019/10/6/0bca60f406919721cf446d0db958b300.jpg",
     background: "B1.JPG",
   },
